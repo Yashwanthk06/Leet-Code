@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1768-merge-strings-alternately](https://github.com/Yashwanthk06/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Backtracking
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/Yashwanthk06/Leet-Code/tree/master/1510-stone-game-iv) |
+## Two Pointers
+|  |
+| ------- |
+| [1768-merge-strings-alternately](https://github.com/Yashwanthk06/Leet-Code/tree/master/1768-merge-strings-alternately) |
 <!---LeetCode Topics End-->
