@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yashwanthk06/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashwanthk06/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 ## Hash Table
 |  |
