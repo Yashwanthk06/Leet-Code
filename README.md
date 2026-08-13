@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0392-is-subsequence) |
 | [1768-merge-strings-alternately](https://github.com/Yashwanthk06/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yashwanthk06/Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0392-is-subsequence) |
 | [1510-stone-game-iv](https://github.com/Yashwanthk06/Leet-Code/tree/master/1510-stone-game-iv) |
 ## Minimax
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0283-move-zeroes](https://github.com/Yashwanthk06/Leet-Code/tree/master/0283-move-zeroes) |
+| [0392-is-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0392-is-subsequence) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yashwanthk06/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1768-merge-strings-alternately](https://github.com/Yashwanthk06/Leet-Code/tree/master/1768-merge-strings-alternately) |
 ## Array
