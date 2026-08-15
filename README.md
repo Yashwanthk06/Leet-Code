@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Yashwanthk06/Leet-Code/tree/master/0066-plus-one) |
 | [1510-stone-game-iv](https://github.com/Yashwanthk06/Leet-Code/tree/master/1510-stone-game-iv) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashwanthk06/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -85,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Yashwanthk06/Leet-Code/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Yashwanthk06/Leet-Code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yashwanthk06/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
