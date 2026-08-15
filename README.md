@@ -91,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yashwanthk06/Leet-Code/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Yashwanthk06/Leet-Code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
+| [0724-find-pivot-index](https://github.com/Yashwanthk06/Leet-Code/tree/master/0724-find-pivot-index) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yashwanthk06/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yashwanthk06/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Yashwanthk06/Leet-Code/tree/master/1732-find-the-highest-altitude) |
@@ -152,5 +153,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Yashwanthk06/Leet-Code/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Yashwanthk06/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
