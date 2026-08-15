@@ -93,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yashwanthk06/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yashwanthk06/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
+| [1732-find-the-highest-altitude](https://github.com/Yashwanthk06/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yashwanthk06/Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2215-find-the-difference-of-two-arrays](https://github.com/Yashwanthk06/Leet-Code/tree/master/2215-find-the-difference-of-two-arrays) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashwanthk06/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -148,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yashwanthk06/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Prefix Sum
+|  |
+| ------- |
+| [1732-find-the-highest-altitude](https://github.com/Yashwanthk06/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 <!---LeetCode Topics End-->
