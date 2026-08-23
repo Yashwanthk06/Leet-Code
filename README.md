@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yashwanthk06/Leet-Code/tree/master/0066-plus-one) |
 | [1510-stone-game-iv](https://github.com/Yashwanthk06/Leet-Code/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yashwanthk06/Leet-Code/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Yashwanthk06/Leet-Code/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashwanthk06/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Enumeration
@@ -34,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Yashwanthk06/Leet-Code/tree/master/0443-string-compression) |
 | [1768-merge-strings-alternately](https://github.com/Yashwanthk06/Leet-Code/tree/master/1768-merge-strings-alternately) |
+| [1927-sum-game](https://github.com/Yashwanthk06/Leet-Code/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yashwanthk06/Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashwanthk06/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -45,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
+| [1927-sum-game](https://github.com/Yashwanthk06/Leet-Code/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## Number Theory
 |  |
@@ -65,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1510-stone-game-iv](https://github.com/Yashwanthk06/Leet-Code/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yashwanthk06/Leet-Code/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Yashwanthk06/Leet-Code/tree/master/1927-sum-game) |
 ## Nim Game
 |  |
 | ------- |
