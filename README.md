@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashwanthk06/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yashwanthk06/Leet-Code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## String
 |  |
 | ------- |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yashwanthk06/Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashwanthk06/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yashwanthk06/Leet-Code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Backtracking
 |  |
 | ------- |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
 | [1927-sum-game](https://github.com/Yashwanthk06/Leet-Code/tree/master/1927-sum-game) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yashwanthk06/Leet-Code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Number Theory
 |  |
 | ------- |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashwanthk06/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashwanthk06/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yashwanthk06/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yashwanthk06/Leet-Code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Sorting
 |  |
 | ------- |
@@ -165,4 +169,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Yashwanthk06/Leet-Code/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Yashwanthk06/Leet-Code/tree/master/1732-find-the-highest-altitude) |
+## Counting
+|  |
+| ------- |
+| [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yashwanthk06/Leet-Code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 <!---LeetCode Topics End-->
