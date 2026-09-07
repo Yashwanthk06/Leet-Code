@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Yashwanthk06/Leet-Code/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/Yashwanthk06/Leet-Code/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Yashwanthk06/Leet-Code/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+| [3904-smallest-stable-index-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -169,6 +170,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0724-find-pivot-index](https://github.com/Yashwanthk06/Leet-Code/tree/master/0724-find-pivot-index) |
 | [1732-find-the-highest-altitude](https://github.com/Yashwanthk06/Leet-Code/tree/master/1732-find-the-highest-altitude) |
+| [3904-smallest-stable-index-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
 ## Counting
 |  |
 | ------- |
