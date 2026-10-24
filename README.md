@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/Yashwanthk06/Leet-Code/tree/master/0151-reverse-words-in-a-string) |
 | [0392-is-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/Yashwanthk06/Leet-Code/tree/master/0443-string-compression) |
+| [0796-rotate-string](https://github.com/Yashwanthk06/Leet-Code/tree/master/0796-rotate-string) |
 | [0856-score-of-parentheses](https://github.com/Yashwanthk06/Leet-Code/tree/master/0856-score-of-parentheses) |
 | [1768-merge-strings-alternately](https://github.com/Yashwanthk06/Leet-Code/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/Yashwanthk06/Leet-Code/tree/master/1927-sum-game) |
@@ -167,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Yashwanthk06/Leet-Code/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0796-rotate-string](https://github.com/Yashwanthk06/Leet-Code/tree/master/0796-rotate-string) |
 ## Z Algorithm
 |  |
 | ------- |
