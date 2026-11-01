@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/Yashwanthk06/Leet-Code/tree/master/0066-plus-one) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yashwanthk06/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [1510-stone-game-iv](https://github.com/Yashwanthk06/Leet-Code/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yashwanthk06/Leet-Code/tree/master/1563-stone-game-v) |
 | [1927-sum-game](https://github.com/Yashwanthk06/Leet-Code/tree/master/1927-sum-game) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/Yashwanthk06/Leet-Code/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/Yashwanthk06/Leet-Code/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0334-increasing-triplet-subsequence) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/Yashwanthk06/Leet-Code/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0724-find-pivot-index](https://github.com/Yashwanthk06/Leet-Code/tree/master/0724-find-pivot-index) |
 | [0942-di-string-match](https://github.com/Yashwanthk06/Leet-Code/tree/master/0942-di-string-match) |
 | [1207-unique-number-of-occurrences](https://github.com/Yashwanthk06/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
