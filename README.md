@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1927-sum-game](https://github.com/Yashwanthk06/Leet-Code/tree/master/1927-sum-game) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/Yashwanthk06/Leet-Code/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3360-stone-removal-game](https://github.com/Yashwanthk06/Leet-Code/tree/master/3360-stone-removal-game) |
 ## Enumeration
 |  |
 | ------- |
@@ -212,5 +213,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/Yashwanthk06/Leet-Code/tree/master/3360-stone-removal-game) |
 | [3925-concatenate-array-with-reverse](https://github.com/Yashwanthk06/Leet-Code/tree/master/3925-concatenate-array-with-reverse) |
 <!---LeetCode Topics End-->
