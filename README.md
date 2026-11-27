@@ -120,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1207-unique-number-of-occurrences](https://github.com/Yashwanthk06/Leet-Code/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/Yashwanthk06/Leet-Code/tree/master/1431-kids-with-the-greatest-number-of-candies) |
 | [1563-stone-game-v](https://github.com/Yashwanthk06/Leet-Code/tree/master/1563-stone-game-v) |
+| [1652-defuse-the-bomb](https://github.com/Yashwanthk06/Leet-Code/tree/master/1652-defuse-the-bomb) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/Yashwanthk06/Leet-Code/tree/master/1679-max-number-of-k-sum-pairs) |
 | [1732-find-the-highest-altitude](https://github.com/Yashwanthk06/Leet-Code/tree/master/1732-find-the-highest-altitude) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Yashwanthk06/Leet-Code/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [1652-defuse-the-bomb](https://github.com/Yashwanthk06/Leet-Code/tree/master/1652-defuse-the-bomb) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Yashwanthk06/Leet-Code/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Yashwanthk06/Leet-Code/tree/master/3090-maximum-length-substring-with-two-occurrences) |
 ## Segment Tree
