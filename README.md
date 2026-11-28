@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/Yashwanthk06/Leet-Code/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yashwanthk06/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Yashwanthk06/Leet-Code/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Number Theory
 |  |
 | ------- |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/Yashwanthk06/Leet-Code/tree/master/0392-is-subsequence) |
 | [1510-stone-game-iv](https://github.com/Yashwanthk06/Leet-Code/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Yashwanthk06/Leet-Code/tree/master/1563-stone-game-v) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Yashwanthk06/Leet-Code/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Minimax
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/Yashwanthk06/Leet-Code/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3904-smallest-stable-index-ii](https://github.com/Yashwanthk06/Leet-Code/tree/master/3904-smallest-stable-index-ii) |
 | [3925-concatenate-array-with-reverse](https://github.com/Yashwanthk06/Leet-Code/tree/master/3925-concatenate-array-with-reverse) |
+| [3946-maximum-number-of-items-from-sale-i](https://github.com/Yashwanthk06/Leet-Code/tree/master/3946-maximum-number-of-items-from-sale-i) |
 ## Hash Table
 |  |
 | ------- |
